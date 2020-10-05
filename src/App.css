@@ -29,3 +29,20 @@ ul.header a {
 .active {
     background-color: #8787e5;
 }
+
+.square {
+    background: #fff;
+    border: 1px solid #999;
+    width: 60px;
+    height: 60px;
+    font-size: 1.8rem;
+    font-weight: bold;
+    float: left;
+}
+
+.board-row {
+    clear: both;
+    height: 60px;
+}
+
+
